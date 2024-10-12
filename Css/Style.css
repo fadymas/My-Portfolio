@@ -210,7 +210,7 @@ main section.me .main-btn:hover {
 
 @media (max-width: 1200px) {
   .project-card {
-    width: 17.05em;
+    width: 18em;
   }
 }
 @media (max-width: 991px) {
@@ -220,7 +220,7 @@ main section.me .main-btn:hover {
   }
   .project-card {
     max-width: 100%;
-    width: 21em;
+    width: 18em;
   }
 }
 
